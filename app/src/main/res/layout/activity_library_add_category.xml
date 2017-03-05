@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/categoryAdd"
+            android:layout_width="match_parent"
+            android:layout_height="50dp" />
+
+        <Button
+            android:onClick="onCategoryAddClick"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="@string/btn_add_category"/>
+
+    <Button
+        android:id="@+id/onAddClick"
+        android:onClick="onAddClick"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="@string/btn_chooice_category"/>
+
+    <ListView
+            android:id="@+id/category_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+
+    </LinearLayout>

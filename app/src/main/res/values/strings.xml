@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">マイライブラリ</string>
+    <string name="button_name">バーコードスキャン</string>
+    <string name="title">タイトル</string>
+    <string name="author">著者</string>
+    <string name="publisher">出版社</string>
+    <string name="isbn">ISBN</string>
+    <string name="inputDate">登録した日</string>
+    <string name="memo">メモ</string>
+    <string name="impression">感想</string>
+    <string name="inputIsbn">バーコード入力する</string>
+    <string name="scanIsbn">バーコードスキャン</string>
+
+    <string name="btn_save">更新</string>
+    <string name="btn_insert">登録</string>
+    <string name="btn_delete">削除</string>
+
+    <string name="category">カテゴリ</string>
+    <string name="searchCategory">カテゴリ検索</string>
+
+    <string name="btn_add_category">カテゴリ追加</string>
+    <string name="btn_chooice_category">カテゴリー選択</string>
+</resources>
